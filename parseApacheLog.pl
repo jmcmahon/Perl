@@ -9,7 +9,7 @@
 #
 #
 #      OPTIONS:  ---
-# REQUIREMENTS:  ./parseApacheLog.pl <svn repo> <path to access log file>
+# REQUIREMENTS:  ./parseApacheLog.pl <svn repo> <date in dd/Mon/yyyy format> <path to access log file>
 #         BUGS:  ---
 #        NOTES:  The ncisvn apache access log files are in NCSA extended/combined log format
 #                See http://httpd.apache.org/docs/2.2/mod/mod_log_config.html#logformat for more info
